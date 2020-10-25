@@ -1,0 +1,1 @@
+# isShortsWeather-Function
